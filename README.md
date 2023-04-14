@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project
 This is the final project for Pitt's Big Ideas in Computer Science for Theo Zervos, Kieran Duffy, and Michael Canavan. This project was created to look at what neighborhood is the best neighborhood in Pittsburgh based on a metric created by our team. Our group decided out metric would be Health and Safety. This project aimed to find the best neighborhood in Pittsburgh based off of the Health and Safety of it's residents.
 
-#Group 20
+# Group 20
 
 ## Emails
 * Theo Zervos : tnz3@pitt.edu
