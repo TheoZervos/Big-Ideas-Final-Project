@@ -8,7 +8,7 @@ This is the final project for Pitt's Big Ideas in Computer Science for Theo Zerv
 * Michael Canavan : mdc117@pitt.edu
 * Kieran Duffy : kid40@pitt.edu
 
-*PlEASE DO NOT BOTHER EMAILING UNLESS YOU ARE A PROFESSOR OR TA
+*PLEASE DO NOT BOTHER EMAILING UNLESS YOU ARE A PROFESSOR OR TA*
 
 
 # Used Datasets
